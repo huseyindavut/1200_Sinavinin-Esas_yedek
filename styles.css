@@ -77,7 +77,7 @@ nav {
 
 }
 
-.nav ol li a:hover::before{transform: :scaleY(1.1);}
+.nav ol li a:hover::before{transform: scaleY(1.1);}
 .nav ol li a:hover{color: rgb(195, 23, 23);}
 
 
